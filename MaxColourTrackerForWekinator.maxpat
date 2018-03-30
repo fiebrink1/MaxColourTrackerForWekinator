@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 129.0, 78.0, 1086.0, 683.0 ],
+		"rect" : [ 129.0, 78.0, 324.0, 236.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -157,18 +157,6 @@
 					"patching_rect" : [ 38.0, 2461.0, 121.0, 22.0 ],
 					"style" : "",
 					"text" : "qmetro 55 @active 1"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-27",
-					"maxclass" : "comment",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 342.0, 511.0, 150.0, 20.0 ],
-					"style" : "",
-					"text" : "140 105"
 				}
 
 			}
@@ -553,7 +541,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 68.0, 152.0, 150.0, 20.0 ],
+					"patching_rect" : [ 10.0, 55.0, 150.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 151.571411, 146.0, 57.0, 20.0 ],
 					"style" : "",
@@ -591,14 +579,15 @@
 				"box" : 				{
 					"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"id" : "obj-85",
+					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 251.5, 1916.5, 66.714355, 20.0 ],
+					"patching_rect" : [ 251.5, 1916.5, 66.714355, 33.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 210.571411, 146.0, 85.0, 20.0 ],
 					"style" : "",
-					"text" : "0.00 0.00"
+					"text" : "34.00 63.00"
 				}
 
 			}
@@ -1145,7 +1134,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 339.071411, 353.0, 150.0, 20.0 ],
+					"patching_rect" : [ 10.0, 111.0, 150.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 0.0, 146.0, 134.0, 20.0 ],
 					"style" : "",
@@ -2428,7 +2417,7 @@
 , 			{
 				"box" : 				{
 					"angle" : 0.0,
-					"bgcolor" : [ 0.725156, 0.552607, 0.395745, 1.0 ],
+					"bgcolor" : [ 0.144764, 0.129078, 0.133, 1.0 ],
 					"border" : 2,
 					"id" : "obj-59",
 					"maxclass" : "panel",
@@ -2446,7 +2435,7 @@
 , 			{
 				"box" : 				{
 					"angle" : 0.0,
-					"bgcolor" : [ 0.576804, 0.404255, 0.247393, 1.0 ],
+					"bgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"border" : 2,
 					"id" : "obj-58",
 					"maxclass" : "panel",
@@ -3514,7 +3503,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 5.5, 20.0, 150.0, 20.0 ],
+					"patching_rect" : [ 370.0, 278.166687, 150.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 10.0, 10.0, 70.333359, 20.0 ],
 					"style" : "",
