@@ -7,5 +7,5 @@ Most other implementation was one by Sam Parke-Wolf done in our [Sound Control](
 
 Can be used without modification to send OSC data to [Wekinator](www.wekinator.org).
 
-
+v1.0: Created March 2018
 
